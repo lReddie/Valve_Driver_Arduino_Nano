@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J10";"PhoenixContact_MSTBV_2,5_8-GF-5,08_1x08_P5.08mm_Vertical_ThreadedFlange_MountHole";1;"Conn_01x08";;;
+2;"SW1,SW2,SW3,SW4,SW5,SW6";"SW_SPST_EVQP0";6;"SW_Push";;;
+3;"J7";"PhoenixContact_MSTBVA_2,5_12-G_1x12_P5.00mm_Vertical";1;"Conn_01x12";;;
+4;"J5,J3,J4,J9,J8,J6";"PinHeader_1x02_P2.54mm_Vertical";6;"Conn_01x02";;;
+5;"D4,D5,D6,D3,D2,D1";"D_SOD-123";6;"D_Schottky";;;
+6;"U1";"SOT-23-5";1;"OPA333xxDBV";;;
+7;"J1";"CUI_PJ-082BH";1;"Barrel_Jack";;;
+8;"Q13,Q7,Q10,Q17,Q1,Q4";"SOT-23";6;"2N7002";;;
+9;"U4,U7,U3,U8,U11,U12";"SOT-23-5_HandSoldering";6;"INA186";;;
+10;"R14,R41,R64,R12,R66,R43";"R_1206_3216Metric_Pad1.42x1.75mm_HandSolder";6;"R";;;
+11;"R20,R11,R15,R4,R2,R10,R42,R50,R77,R70,R19,R40,R38,R34,R44,R45,R46,R58,R81,R60,R67,R68,R69,R80,R79,R65,R13,R8,R9,R7,R6,R5,R3,R31,R1,R17,R16,R82";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";38;"R";;;
+12;"C2,C4,C6,C8,C30,C32,C7,C5,C3,C1,C21,C22,C23,C24,C29,C17,C16,C15,C14,C13,C18,C11,C10,C9";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";24;"C";;;
+13;"C31,C33";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"C";;;
+14;"U14";"SOT-223";1;"LM340_SOT223";;;
+15;"U15";"SOT-23";1;"REF3033";;;
+16;"J2";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03_Female";;;
+17;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
